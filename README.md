@@ -43,7 +43,7 @@ For a detailed step-by-step analysis, including data cleaning, transformation, a
 
 To explore the analysis:
 
-1. Clone the repository: `git clone https://github.com/dimitar-m/used-cars-data-analysis.git`
+1. Clone the repository: `git clone https://github.com/dimitar-m/used-cars-data-analysis.ipynb`
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Run the Jupyter notebook to see the detailed analysis.
 
