@@ -62,4 +62,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Thank you for your interest in this project!
 
 Best regards,  
-[Dimitar Mikov]
+Dimitar Mikov
